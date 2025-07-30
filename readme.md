@@ -8,4 +8,4 @@ Completionist++ Tracker replaces the in-game Joker Sticker progress such that it
 
 Follow the Steamodded installation guide for your respective operating system [here](https://github.com/Steamodded/smods/wiki)
 
-Then download the [latest release](), unzip the contents into your Mods folder (created as part of the Steamodded instructions). You should end up with `Mods\cpp-tracking`
+Then download the [latest release](https://github.com/AndyWilliams682/cpp-tracking/releases/latest), unzip the contents into your Mods folder (created as part of the Steamodded instructions). You should end up with `Mods\cpp-tracking`
