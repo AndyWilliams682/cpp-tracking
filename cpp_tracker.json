@@ -1,0 +1,21 @@
+{
+	"id": "cpp_tracker",
+	"name": "Completionist++ Tracker",
+	"author": ["AndyWilliams682"],
+	"description": "Updates the Joker Sticker progress bar to only track gold joker stickers.",
+	"prefix": "cpp_tracker",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "FF230A",
+	"badge_text_colour": "ABC123",
+	"display_name": "C++T",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)",
+		"Balatro (==1.0.1o-FULL)"
+	],
+	"conflicts": [],
+	"provides": [],
+	"dump_loc": false
+}
